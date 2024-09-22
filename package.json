@@ -1,0 +1,12 @@
+{
+    "name": "anti-doping-app",
+    "version": "1.0.0",
+    "description": "Anti-Doping App",
+    "main": "server/server.js",
+    "scripts": {
+        "start": "cd server && npm start",
+        "client": "cd client && npm start"
+    },
+    "author": "",
+    "license": "ISC"
+}
